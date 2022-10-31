@@ -14,6 +14,13 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/souvik-patra-86b2b7166/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="souvik patra" height="30" width="40" /></a>
+  
+  <a href="https://iam-souvik.github.io">
+  <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://https://iam-souvik.github.io" />
+</a>
+<a title="durgashankarpal14285@gmail.com" href="souvikpatramax@gmail.com">
+  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="souvikpatramax@gmail.com" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
