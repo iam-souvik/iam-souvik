@@ -56,9 +56,9 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=iam-souvik&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=iam-souvik&hide_border=true&theme=react&hide_border=true&bg_color=0D1117)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=iam-souvik&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iam-souvik&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=snikhil2001&bg_color=0D1117&color=5BCDEC&hide_border=true&width=100vh)
 
 ---
 
